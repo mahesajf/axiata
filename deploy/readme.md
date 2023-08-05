@@ -1,4 +1,7 @@
 # Deploy
+
+![image](https://github.com/mahesajf/axiata/assets/135594496/70f9dec1-8b3e-4b61-ac9e-139f799c7343)
+
 <br>Install docker
 <br>https://docs.docker.com/engine/install/ubuntu/
 <br>
